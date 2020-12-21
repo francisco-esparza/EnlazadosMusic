@@ -1,0 +1,9 @@
+body {
+    background-color: #000000;
+}
+
+#title {
+    color: #ffff;
+    text-align: center;
+    margin-top: 40vh
+}
